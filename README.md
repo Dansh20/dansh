@@ -1,6 +1,6 @@
 This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram.
 ### Fork of [Anasty's Repo](https://github.com/anasty17/mirror-leech-telegram-bot)
-# Extra Features implemented by Arsh :
+# Extra Features implemented by RK :
 - Leech Log
 - Mirror logs
 - Source link logs
@@ -32,7 +32,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 - Clone this repo:
 ```
-git clone https://github.com/arshsisodiya/helios-mirror mirrorbot/ && cd mirrorbot
+git clone https://github.com/rkmiror/rk-mirror mirrorbot/ && cd mirrorbot
 ```
 - For Debian based distros
 ```
